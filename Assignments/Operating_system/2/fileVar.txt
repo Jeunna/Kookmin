@@ -1,0 +1,97 @@
+0
+15:28:3, process 32726 before critical section
+15:28:3, process 32726 in critical section
+15:28:3, process 32726 leaving critical section
+15:28:3, process 32726 exiting
+15:28:4, process 32727 before critical section
+15:28:4, process 32727 in critical section
+15:28:4, process 32727 leaving critical section
+15:28:4, process 32727 exiting
+15:28:5, process 32728 before critical section
+15:28:5, process 32728 in critical section
+15:28:6, process 32729 before critical section
+15:28:6, process 32729 in critical section
+15:28:7, process 32730 before critical section
+15:28:7, process 32730 in critical section
+15:28:8, process 32726 before critical section
+15:28:8, process 32726 in critical section
+15:28:8, process 32726 leaving critical section
+15:28:8, process 32726 exiting
+15:28:8, process 32731 before critical section
+15:28:8, process 32731 in critical section
+15:28:9, process 32727 before critical section
+15:28:9, process 32727 in critical section
+15:28:9, process 32727 leaving critical section
+15:28:9, process 32727 exiting
+15:28:9, process 32728 leaving critical section
+15:28:9, process 32728 exiting
+15:28:12, process 32728 before critical section
+15:28:12, process 32728 in critical section
+15:28:12, process 32728 leaving critical section
+15:28:12, process 32728 exiting
+15:28:12, process 32731 leaving critical section
+15:28:12, process 32731 exiting
+15:28:15, process 32731 before critical section
+15:28:15, process 32731 in critical section
+15:28:15, process 32731 leaving critical section
+15:28:15, process 32731 exiting
+15:28:15, process 32730 leaving critical section
+15:28:15, process 32730 exiting
+15:28:15, process 32729 leaving critical section
+15:28:15, process 32729 exiting
+15:28:18, process 32730 before critical section
+15:28:18, process 32730 in critical section
+15:28:18, process 32730 leaving critical section
+15:28:18, process 32730 exiting
+15:28:20, process 32729 before critical section
+15:28:20, process 32729 in critical section
+15:28:20, process 32729 leaving critical section
+15:28:20, process 32729 exiting
+13:46:9, process 7161 before critical section
+13:46:9, process 7161 in critical section
+13:46:9, process 7161 leaving critical section
+13:46:9, process 7161 exiting
+13:46:10, process 7162 before critical section
+13:46:10, process 7162 in critical section
+13:46:10, process 7162 leaving critical section
+13:46:10, process 7162 exiting
+13:46:11, process 7163 before critical section
+13:46:11, process 7163 in critical section
+13:46:12, process 7164 before critical section
+13:46:12, process 7164 in critical section
+13:46:13, process 7165 before critical section
+13:46:13, process 7165 in critical section
+13:46:14, process 7161 before critical section
+13:46:14, process 7161 in critical section
+13:46:14, process 7161 leaving critical section
+13:46:14, process 7161 exiting
+13:46:14, process 7166 before critical section
+13:46:14, process 7166 in critical section
+13:46:15, process 7162 before critical section
+13:46:15, process 7162 in critical section
+13:46:15, process 7162 leaving critical section
+13:46:15, process 7162 exiting
+13:46:15, process 7163 leaving critical section
+13:46:15, process 7163 exiting
+13:46:18, process 7163 before critical section
+13:46:18, process 7163 in critical section
+13:46:18, process 7163 leaving critical section
+13:46:18, process 7163 exiting
+13:46:18, process 7166 leaving critical section
+13:46:18, process 7166 exiting
+13:46:21, process 7166 before critical section
+13:46:21, process 7166 in critical section
+13:46:21, process 7166 leaving critical section
+13:46:21, process 7166 exiting
+13:46:21, process 7164 leaving critical section
+13:46:21, process 7164 exiting
+13:46:21, process 7165 leaving critical section
+13:46:21, process 7165 exiting
+13:46:24, process 7165 before critical section
+13:46:24, process 7165 in critical section
+13:46:24, process 7165 leaving critical section
+13:46:24, process 7165 exiting
+13:46:26, process 7164 before critical section
+13:46:26, process 7164 in critical section
+13:46:26, process 7164 leaving critical section
+13:46:26, process 7164 exiting
