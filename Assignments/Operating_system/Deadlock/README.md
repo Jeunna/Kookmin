@@ -26,8 +26,8 @@ Phil_A는 R1을 집으려하고  Phil_B는 R2를, Phil_C는 R3를 집으려한�
 
 <p>Prevention(예방) - Circular wait 조건을 깨는 방법 <br>
 <br> <br>
-<img src="./prevention_deadlock.png"> <br>
-<img src="./prevention_successful.png"></p>
+<img src="./image/prevention_deadlock.png"> <br>
+<img src="./image/prevention_successful.png"></p>
 
 <p>10061이 Phil_A, 10062가 Phil_B, 10063이 Phil_C라고 볼 때,</p>
 
@@ -40,8 +40,8 @@ Phil_A는 R1을 집으려하고  Phil_B는 R2를, Phil_C는 R3를 집으려한�
 <br> <br>
 Avoiding(회피)  <br>
 <br> <br>
-<img src="./avoiding_deadlock.png"> <br>
-<img src="./avoiding_successful.png"></p>
+<img src="./image/avoiding_deadlock.png"> <br>
+<img src="./image/avoiding_successful.png"></p>
 
 <p>6010을 Phil_A로 보고 6011을 Phil_B로, 6012를 Phil_C로 봤을 때,</p>
 
