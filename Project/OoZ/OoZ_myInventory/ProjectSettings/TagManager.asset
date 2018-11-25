@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Apple
+  - Iron
+  - Plant
+  - PlantRespawn
+  - Rocket
+  - Owl
+  - Alpaca
+  - Turtle
+  - Skill_list
+  - Warp
+  - Enemy
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Item
+  - Event
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1440603795
+    locked: 0
+  - name: Player
+    uniqueID: 654283649
+    locked: 0
+  - name: 
+    uniqueID: 362705031
+    locked: 0
+  - name: 
+    uniqueID: 2664691095
+    locked: 0
