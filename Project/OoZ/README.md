@@ -1,1 +1,3 @@
-game project
+<h3>my first Game project</h3>
+
+- couldn't finish them all...
