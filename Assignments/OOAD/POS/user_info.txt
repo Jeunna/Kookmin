@@ -1,0 +1,3 @@
+root 1234 admin
+jeunna q1w2e3 cashier
+d d cashier
